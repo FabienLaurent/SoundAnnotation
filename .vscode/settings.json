@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "qinputdialog": "cpp",
+        "qapplication": "cpp"
+    }
+}
